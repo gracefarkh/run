@@ -2,7 +2,7 @@ import {Provider} from "react-redux";
 import store from "./store/store";
 import {Main, SignUp} from "./pages";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-
+//first
 function App() {
 
     return (
