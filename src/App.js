@@ -19,4 +19,5 @@ function App() {
     );
 }
 
+const button = document.createElement("button")
 export default App;
