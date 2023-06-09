@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 15px;
+  gap: 10px;
+
+  width: 318px;
+  height: 255.25px;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.publishedText {
+  display: flex;
+  justify-content: space-between;
+  width: 289px;
+}
+
+.card_block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 155px;
+}

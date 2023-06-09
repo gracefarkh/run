@@ -5,7 +5,6 @@ const Main =()=>{
     console.log(probka)
     return (
         <div>
-    hi
         </div>
     )
 }
